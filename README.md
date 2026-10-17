@@ -1,21 +1,21 @@
-# 🛍️ Musah Fashion: E-Commerce Website (WordPress + WooCommerce on Docker)
+#  Musah Fashion: E-Commerce Website (WordPress + WooCommerce on Docker)
 
 An individual full-stack e-commerce project for a fashion accessories store (watches, sunglasses, bracelets and necklaces). The shop runs on **WordPress with WooCommerce**, is **containerised with Docker**, and supports the complete customer journey from browsing products to paying online and receiving an order confirmation.
 
-> 🎓 **Module:** ISTN3EC (E-Commerce) · University of KwaZulu-Natal · Semester 1, 2026
-> 👤 **Type:** Individual project · **Developer:** Bongumusa Seluleko Gumede
+>  **Module:** ISTN3EC (E-Commerce) · University of KwaZulu-Natal · Semester 1, 2026
+>  **Type:** Individual project · **Developer:** Bongumusa Seluleko Gumede
 
 ---
 
-## 🎥 Demo video
+##  Demo video
 
-📹 **[Watch the full walkthrough here](ADD-YOUR-VIDEO-LINK-HERE)**
+ **[Watch the full walkthrough here](ADD-YOUR-VIDEO-LINK-HERE)**
 
 The video shows the full flow end to end: browsing, adding to cart, checkout and payment.
 
 ---
 
-## ✨ Key features
+##  Key features
 
 - **Product catalogue** with 23 products, sale badges (original price struck through) and pagination
 - **Product categories and brand** (e.g. Males, Unisex, Brand: Musah Fashion)
@@ -30,7 +30,7 @@ The video shows the full flow end to end: browsing, adding to cart, checkout and
 
 ---
 
-## 🧰 Tech stack
+##  Tech stack
 
 | Layer | Technology |
 |---|---|
@@ -44,7 +44,7 @@ The video shows the full flow end to end: browsing, adding to cart, checkout and
 
 ---
 
-## 🐳 Docker skills demonstrated
+##  Docker skills demonstrated
 
 This project shows practical, hands-on experience with:
 
@@ -61,7 +61,7 @@ This project shows practical, hands-on experience with:
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ![Home page](screenshots/01-homepage-hero.png)
 
@@ -85,7 +85,7 @@ This project shows practical, hands-on experience with:
 
 ---
 
-## 🚀 Getting started (run it locally)
+##  Getting started (run it locally)
 
 ### Prerequisites
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/) (with WSL 2 on Windows)
@@ -121,19 +121,19 @@ docker compose down -v       # stop and delete volumes (resets everything)
 
 ---
 
-## 📚 Documentation
+##  Documentation
 
 Full project documentation (requirements, architecture, Docker deployment, configuration, testing and future improvements) is in **[docs/DOCUMENTATION.md](docs/DOCUMENTATION.md)**.
 
 ---
 
-## 🔒 Security note
+##  Security note
 
 No real credentials are stored in this repository. Passwords and API keys (including Paystack keys) must be supplied through a local `.env` file, which is excluded by `.gitignore`. Payments in this project were demonstrated in a development environment.
 
 ---
 
-## 🔮 Future improvements
+##  Future improvements
 
 - Deploy to a cloud host (e.g. Azure App Service for Containers) with HTTPS
 - Add customer reviews and product ratings
@@ -143,8 +143,8 @@ No real credentials are stored in this repository. Passwords and API keys (inclu
 
 ---
 
-## 👤 Author
+##  Author
 
 **Bongumusa Seluleko Gumede**
 BCom Information Systems & Technology, University of KwaZulu-Natal
-🔗 [LinkedIn](https://www.linkedin.com/in/bongumusagumede/) · 💻 [GitHub](https://github.com/musahhh4)
+ [LinkedIn](https://www.linkedin.com/in/bongumusagumede/) ·  [GitHub](https://github.com/musahhh4)
