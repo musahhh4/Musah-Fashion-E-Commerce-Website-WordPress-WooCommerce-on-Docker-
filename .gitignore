@@ -1,0 +1,5 @@
+.env
+*.sql
+wp-content/uploads/
+.DS_Store
+Thumbs.db
